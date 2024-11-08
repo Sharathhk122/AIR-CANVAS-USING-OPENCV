@@ -51,7 +51,7 @@ After installation, verify that the libraries are installed correctly by running
 
 Screenshots
 
-![ss1](https://user-images.githubusercontent.com/88366253/147323134-08a4b394-a4c1-4fad-b955-93cadeb681fb.png)
+![ss1](https://github.com/Sharathhk122/AIR-CANVAS-USING-OPENCV/blob/main/Screenshot%202024-11-08%20200936.png)
 
 ![ss1](https://github.com/Sharathhk122/AIR-CANVAS-USING-OPENCV/blob/main/Screenshot%20(892).png)
 
