@@ -23,30 +23,31 @@ Installation
 To set up the Air Canvas project, you'll need to install the required dependencies: Python 3, NumPy, OpenCV, and MediaPipe. Here’s how you can install them:
 
 1. Install Python 3:
+
 If you haven't already, install Python 3 from the official website:
+
 [Download Python 3](https://www.python.org/downloads/)
 
 After installing, verify the installation by running:
 
-bash
-Copy code
 python --version
+
 2. Install Required Libraries:
+
 Open a terminal or command prompt and install the necessary libraries using pip:
 
-bash
-Copy code
-pip install numpy opencv-python mediapipe
-numpy: For numerical operations.
-opencv-python: For computer vision tasks.
-mediapipe: For hand gesture recognition.
-3. Verify Installation:
-After installation, verify that the libraries are installed correctly by running a Python script or entering the Python interpreter:
 
-python
-Copy code
-import numpy as np
-import cv2
-import mediapipe as mp
+pip install numpy opencv-python mediapipe
+
+numpy: For numerical operations.
+
+opencv-python: For computer vision tasks.
+
+mediapipe: For hand gesture recognition.
+
+3. Verify Installation:
+
+After installation, verify that the libraries are installed correctly by running a Python script or entering the Python interpreter.
+
 
 
