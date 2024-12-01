@@ -1,13 +1,12 @@
 
-
 ```markdown
 # Air-Canvas-with-ML
-A Computer Vision project implemented with OpenCV and Machine Learning using Mediapipe.
+**A Computer Vision project implemented with OpenCV and Machine Learning using Mediapipe.**
 
 ## Project Overview
 Ever wanted to draw your imagination by just waiving your finger in the air? In this project, we build an **Air Canvas** that can draw anything on the screen based solely on the motion of your hands, detecting the landmarks on your hand. It’s a great project for showcasing machine learning skills and can be added to a resume to demonstrate computer vision techniques.
 
-This project utilizes **Hand Landmarks Detection** and **Tracking** to detect finger movements in real-time. It is implemented using Python, OpenCV, and Mediapipe.
+This project utilizes **Hand Landmarks Detection** and **Tracking** to detect finger movements in real-time. It is implemented using **Python**, **OpenCV**, and **Mediapipe**.
 
 ## Algorithm
 
@@ -27,6 +26,7 @@ This project utilizes **Hand Landmarks Detection** and **Tracking** to detect fi
 - **Mediapipe Integration**: Uses Google’s Mediapipe library for detecting hand landmarks with ease.
 - **Single-Hand Detection**: Optimized for detecting one hand at a time.
 - **Intuitive Controls**: Simple to use, requiring no physical controllers, just your hand movement.
+- **Customizable Drawing Styles**: Change ink color and thickness for a more personalized drawing experience.
 
 ## Requirements
 
@@ -58,7 +58,7 @@ Before setting up the project, make sure you have Python 3 installed. Additional
    After installation, verify that the libraries are installed correctly by running a Python script or entering the Python interpreter.
 
 4. **Run the Air Canvas Project**:
-   Once the setup is complete, run the `air_canvas.py` script to start drawing with your hands.
+   Once the setup is complete, run the `air_canvas.py` script to start drawing with your hands:
    ```bash
    python air_canvas.py
    ```
@@ -73,5 +73,11 @@ Below are some screenshots showcasing the project in action:
 ![Air Canvas - Screenshot 4](https://github.com/Sharathhk122/AIR-CANVAS-USING-OPENCV/blob/main/Screenshot%20(894).png)
 ![Air Canvas - Screenshot 5](https://github.com/Sharathhk122/AIR-CANVAS-USING-OPENCV/blob/main/Screenshot%20(891).png)
 
----
+## Usage
+
+1. Launch the script by running `python air_canvas.py`.
+2. Move your hand in front of the camera to begin drawing.
+3. Use different hand gestures to draw, erase, or change the drawing color.
+
+## Contributing
 
