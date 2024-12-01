@@ -79,5 +79,5 @@ Below are some screenshots showcasing the project in action:
 2. Move your hand in front of the camera to begin drawing.
 3. Use different hand gestures to draw, erase, or change the drawing color.
 
-## Contributing
+
 
